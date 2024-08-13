@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.16",
+    "node": "^22.5.1",
+    "nodemon": "^3.1.4",
+    "qr-image": "^3.2.0"
+  },
+  "name": "2.4-qr-code-project",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
